@@ -1,0 +1,6 @@
+H:\个人练习\TryLogin\VerifyCode\obj\Debug\ResolveAssemblyReference.cache
+H:\个人练习\TryLogin\VerifyCode\bin\Debug\VerifyCode.dll
+H:\个人练习\TryLogin\VerifyCode\bin\Debug\VerifyCode.pdb
+H:\个人练习\TryLogin\VerifyCode\obj\Debug\VerifyCode.dll
+H:\个人练习\TryLogin\VerifyCode\obj\Debug\VerifyCode.pdb
+H:\个人练习\TryLogin\VerifyCode\bin\Debug\VerifyCode.dll.config

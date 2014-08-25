@@ -1,0 +1,12 @@
+H:\个人练习\TryLogin\VerifyCode\bin\Release\VerifyCode.dll.config
+H:\个人练习\TryLogin\VerifyCode\bin\Release\VerifyCode.dll
+H:\个人练习\TryLogin\VerifyCode\bin\Release\VerifyCode.pdb
+H:\个人练习\TryLogin\VerifyCode\obj\Release\ResolveAssemblyReference.cache
+H:\个人练习\TryLogin\VerifyCode\obj\Release\VerifyCode.dll
+H:\个人练习\TryLogin\VerifyCode\obj\Release\VerifyCode.pdb
+H:\个人练习\TryLogin\1.0版本\VerifyCode\bin\Release\VerifyCode.dll.config
+H:\个人练习\TryLogin\1.0版本\VerifyCode\bin\Release\VerifyCode.dll
+H:\个人练习\TryLogin\1.0版本\VerifyCode\bin\Release\VerifyCode.pdb
+H:\个人练习\TryLogin\1.0版本\VerifyCode\obj\Release\ResolveAssemblyReference.cache
+H:\个人练习\TryLogin\1.0版本\VerifyCode\obj\Release\VerifyCode.dll
+H:\个人练习\TryLogin\1.0版本\VerifyCode\obj\Release\VerifyCode.pdb

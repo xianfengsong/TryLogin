@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeLogin", "模拟登陆\FreeLogin.csproj", "{F705AA56-D2CF-4E3E-87B8-74D1FD71D0AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "drOption", "drOption\drOption.csproj", "{4664F543-BD00-4D49-B247-6F4B20E0FC28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerifyCode", "VerifyCode\VerifyCode.csproj", "{8724E17C-7224-4C06-93E8-E1E5FA28EA4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F705AA56-D2CF-4E3E-87B8-74D1FD71D0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F705AA56-D2CF-4E3E-87B8-74D1FD71D0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F705AA56-D2CF-4E3E-87B8-74D1FD71D0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F705AA56-D2CF-4E3E-87B8-74D1FD71D0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4664F543-BD00-4D49-B247-6F4B20E0FC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4664F543-BD00-4D49-B247-6F4B20E0FC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4664F543-BD00-4D49-B247-6F4B20E0FC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4664F543-BD00-4D49-B247-6F4B20E0FC28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8724E17C-7224-4C06-93E8-E1E5FA28EA4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8724E17C-7224-4C06-93E8-E1E5FA28EA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8724E17C-7224-4C06-93E8-E1E5FA28EA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8724E17C-7224-4C06-93E8-E1E5FA28EA4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

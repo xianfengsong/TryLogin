@@ -1,0 +1,12 @@
+H:\个人练习\TryLogin\drOption\bin\Release\WMOption.dll.config
+H:\个人练习\TryLogin\drOption\bin\Release\WMOption.dll
+H:\个人练习\TryLogin\drOption\bin\Release\WMOption.pdb
+H:\个人练习\TryLogin\drOption\obj\Release\ResolveAssemblyReference.cache
+H:\个人练习\TryLogin\drOption\obj\Release\WMOption.dll
+H:\个人练习\TryLogin\drOption\obj\Release\WMOption.pdb
+H:\个人练习\TryLogin\新建文件夹\drOption\bin\Release\WMOption.dll.config
+H:\个人练习\TryLogin\新建文件夹\drOption\bin\Release\WMOption.dll
+H:\个人练习\TryLogin\新建文件夹\drOption\bin\Release\WMOption.pdb
+H:\个人练习\TryLogin\新建文件夹\drOption\obj\Release\ResolveAssemblyReference.cache
+H:\个人练习\TryLogin\新建文件夹\drOption\obj\Release\WMOption.dll
+H:\个人练习\TryLogin\新建文件夹\drOption\obj\Release\WMOption.pdb

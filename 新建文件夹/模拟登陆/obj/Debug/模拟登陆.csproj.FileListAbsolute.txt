@@ -1,0 +1,11 @@
+H:\个人练习\TryLogin\模拟登陆\bin\Debug\模拟登陆.exe
+H:\个人练习\TryLogin\模拟登陆\bin\Debug\模拟登陆.pdb
+H:\个人练习\TryLogin\模拟登陆\obj\Debug\ResolveAssemblyReference.cache
+H:\个人练习\TryLogin\模拟登陆\obj\Debug\模拟登陆.Properties.Resources.resources
+H:\个人练习\TryLogin\模拟登陆\obj\Debug\模拟登陆.csproj.GenerateResource.Cache
+H:\个人练习\TryLogin\模拟登陆\obj\Debug\模拟登陆.exe
+H:\个人练习\TryLogin\模拟登陆\obj\Debug\模拟登陆.pdb
+H:\个人练习\TryLogin\模拟登陆\bin\Debug\MD5.dll
+H:\个人练习\TryLogin\模拟登陆\bin\Debug\MD5.pdb
+H:\个人练习\TryLogin\模拟登陆\obj\Debug\模拟登陆.FM_Login.resources
+H:\个人练习\TryLogin\模拟登陆\bin\Debug\模拟登陆.exe.config
